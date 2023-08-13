@@ -1,6 +1,4 @@
-import java.util.*; 
-import Student.java;
-import ExamSeatingSystem;
+import java.util.*;
 public class main { 
      private static ArrayList<Student> students = new ArrayList<Student>(); 
      private static int totalStudents; 
